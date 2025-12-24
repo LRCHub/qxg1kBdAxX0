@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Tell Me a Lie",
+  "base_artist": "One Direction",
+  "createdAt": "2025-12-24T14:36:05.881555Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tell Me a Lie",
+      "artist": "Griffin House",
+      "has_synced": true,
+      "path": "select/01_Tell_Me_a_Lie_Griffin_House.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tell Me A Lie",
+      "artist": "Josh Ross",
+      "has_synced": true,
+      "path": "select/02_Tell_Me_A_Lie_Josh_Ross.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tell me a lie",
+      "artist": "Navi",
+      "has_synced": true,
+      "path": "select/03_Tell_me_a_lie_Navi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tell Me a Lie",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/04_Tell_Me_a_Lie_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tell Me A Lie",
+      "artist": "Janie Fricke",
+      "has_synced": true,
+      "path": "select/05_Tell_Me_A_Lie_Janie_Fricke.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tell Me A Lie",
+      "artist": "Janie Frickie",
+      "has_synced": true,
+      "path": "select/06_Tell_Me_A_Lie_Janie_Frickie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tell Me a Lie",
+      "artist": "Janie Fricke",
+      "has_synced": true,
+      "path": "select/07_Tell_Me_a_Lie_Janie_Fricke.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tell Me A Lie",
+      "artist": "Logan Ledger",
+      "has_synced": false,
+      "path": "select/08_Tell_Me_A_Lie_Logan_Ledger.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tell Me a Lie",
+      "artist": "Jim Johnston",
+      "has_synced": false,
+      "path": "select/09_Tell_Me_a_Lie_Jim_Johnston.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tell Me A Lie",
+      "artist": "Fratellis",
+      "has_synced": true,
+      "path": "select/10_Tell_Me_A_Lie_Fratellis.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tell Me a Lie",
+      "artist": "Griffin House",
+      "has_synced": true,
+      "path": "select/11_Tell_Me_a_Lie_Griffin_House.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tell Me a Lie",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/12_Tell_Me_a_Lie_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tell Me A Lie",
+      "artist": "The Fratellis",
+      "has_synced": false,
+      "path": "select/13_Tell_Me_A_Lie_The_Fratellis.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tell Me a Lie",
+      "artist": "Shatta Wale",
+      "has_synced": false,
+      "path": "select/14_Tell_Me_a_Lie_Shatta_Wale.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Tell Me a Lie",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/15_Tell_Me_a_Lie_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Tell Me a Lie",
+      "artist": "Janie Fricke",
+      "has_synced": true,
+      "path": "select/16_Tell_Me_a_Lie_Janie_Fricke.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tell Me A Lie",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_Tell_Me_A_Lie_One_Direction.txt"
+    }
+  ]
+}
