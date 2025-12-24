@@ -1,0 +1,59 @@
+# One Direction – Tell Me a Lie
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:04.45] Can't ever get it right
+[00:08.16] No matter how hard I try
+[00:12.21] And I've tried
+[00:17.48] Well, I put up a good fight
+[00:22.84] But your words cut like knives
+[00:27.11] And I'm tired
+[00:33.61] 
+[00:32.28] As you break my heart again this time
+[00:50.78] 
+[00:38.26] Tell me I'm a screwed up mess
+[00:43.13] That I never listen, listen
+[00:47.81] Tell me you don't want my kiss
+[00:50.76] That you need your distance, distance
+[00:54.81] Tell me anything but don't you say he's what you're missing, baby
+[01:01.37] If he's the reason that you're leaving me tonight
+[01:04.92] Spare me what you think, and
+[01:07.27] Tell me a lie
+[01:13.77] 
+[01:11.99] Well, you're the charming type
+[01:15.79] That little twinkle in your eye
+[01:20.58] Gets me every time
+[01:25.50] And well, there must've been a time
+[01:31.33] I was the reason for that smile
+[01:36.11] So keep in mind
+[01:43.61] 
+[01:40.31] As you take what's left of you and I
+[01:58.31] 
+[01:48.28] Tell me I'm a screwed up mess
+[01:51.50] That I never listen, listen
+[01:55.85] Tell me you don't want my kiss
+[02:01.06] That you need your distance, distance
+[02:02.35] Tell me anything but don't you say he's what you're missing, baby
+[02:09.65] If he's the reason that you're leaving me tonight
+[02:13.28] Spare me what you think, and
+[02:15.33] Tell me a lie
+[02:21.83] 
+[02:18.92] Tell me a lie
+[02:22.63] Tell me a lie
+[02:26.78] Tell me a lie
+[02:33.28] 
+[02:36.73] Tell me I'm a screwed up mess (Mess)
+[02:37.60] That I never listen, listen
+[02:38.62] Tell me you don't want my kiss (Kiss)
+[02:41.93] That you need your distance, distance
+[02:45.49] Tell me anything but don't you say he's what you're missing, baby
+[02:52.47] If he's the reason that you're leaving me tonight
+[02:56.05] Spare me what you think, and
+[02:58.79] Tell me a lie
+[03:05.29] 
+[03:02.44] Tell me a lie
+[03:05.27] Tell me a lie
+[03:09.06] Tell me a lie
+[03:13.35] Tell me a lie
+```
